@@ -1,1 +1,2 @@
 This is new text file
+This line is added in Mac book pro

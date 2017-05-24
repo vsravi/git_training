@@ -2,3 +2,5 @@ This is new text file
 This line is added in Mac book pro
 This is another line added in Mac book pro
 this is fourth line added from Windows
+This is fourth line added from mac.
+
